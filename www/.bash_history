@@ -26,3 +26,25 @@ npm install
 npm audit fix
 npm install --save-dev vue vue-template-compiler vue-router vuex sass sass-loader
 exit
+npm install
+npm run development
+npm run watch
+npm install
+npm run watch
+k compiled successfully
+npm install perfect-scrollbar
+npm run watch
+php artisan
+php artisna
+php artisan
+php artisan
+php`artisan ui:auth
+php artisan ui:auth
+php artisan route:list
+php artisan migrate:fresh --seed
+php artisan migrate:fresh 
+docker-compose down
+docker-composer down
+docker ps
+clear
+exit

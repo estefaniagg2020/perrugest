@@ -84,6 +84,7 @@ export default {
   methods: {
     async get() {
       let res = await axios.get("clientes");
+      console.log("entra", res)
       this.customers = res.data;
     },
     async deleteCustomer(value) {
